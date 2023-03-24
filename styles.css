@@ -1,3 +1,4 @@
+@-moz-document domain('steamcommunity.com') {
   /* --- BEGIN --- */
 
   /*
@@ -142,3 +143,4 @@ html body .item_market_actions .btn_small > span {
 
 
 /* --- END --- */
+}
